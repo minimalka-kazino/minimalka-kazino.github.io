@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: minimalka-kazino.github.io
+Sitemap: https://minimalka-kazino.github.io/sitemap.xml
